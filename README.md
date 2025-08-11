@@ -123,3 +123,6 @@ File corruption handling must be added for high-reliability systems.
 
 Conclusion
 This C++ File Handling Application is a foundational utility for persistent data storage. By supporting reading, writing, and appending operations, it provides essential functionality for countless applications. Built using standard C++ features, it’s lightweight, portable, and serves as an excellent example of practical file management in software development. This project can easily be extended with binary file support, data formatting, search features, or integration into larger data processing pipelines.
+
+output:
+![ing](https://github.com/user-attachments/assets/ad4a10dc-8162-401d-8ac1-6d8e7dc0c570)
